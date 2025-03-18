@@ -1,0 +1,83 @@
+[
+    { 
+        "name":"Robo Arena",
+        "Wname":"RoboArena",
+        "img":"/images/Posters/2.png",
+        "eventDate":"29th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Robotics club",
+        "accent":"orange"
+    }  ,
+    { 
+        "name":"Balareon",
+        "Wname":"Balareon",
+        "img":"/images/Posters/4.png",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Gaming club",
+        "accent":"violet"
+    }  ,
+    { 
+        "name":"Vermithor",
+        "Wname":"Vermithor",
+        "img":"/images/Posters/7.png",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Gaming club",
+        "accent":"violet"
+    }  ,
+    { 
+        "name":"Code Voyage",
+        "Wname":"RoboArena",
+        "img":"/images/Posters/1.png",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Coding club",
+        "accent":"violet"
+    }  ,
+    { 
+        "name":"CTF",
+        "Wname":"Capture The Flag",
+        "img":"/images/Posters/8.png",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Coding club",
+        "accent":"violet"
+    } ,
+    { 
+        "name":"Holo Trade",
+        "Wname":"PaperTrading",
+        "img":"",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Finanace club",
+        "accent":"violet"
+    } ,  
+    { 
+        "name":"Frame Fusion",
+        "Wname":"VideoEditingEvent",
+        "img":"",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Vector club",
+        "accent":"violet"
+    },
+    { 
+        "name":"Logic Mania",
+        "Wname":"LogicMania",
+        "img":"",
+        "eventDate":"25th March",
+        "regDate":"14th March",
+        "organizingClub":"Coding club",
+        "accent":"violet"
+    },
+    { 
+        "name":"Neon Nexus: Hack the Future - Hackathon ",
+        "Wname":"Hackathon",
+        "img":"/images/Posters/3.png",
+        "eventDate":"24th March - 30th March",
+        "regDate":"14th March",
+        "organizingClub":"Coding club",
+        "accent":"violet"
+    } 
+ ]

@@ -1,0 +1,19 @@
+@keyframes slide {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+
+.logos-slide{
+    animation: 50s slide infinite linear;
+}
+  
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

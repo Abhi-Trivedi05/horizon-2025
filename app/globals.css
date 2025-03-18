@@ -1,0 +1,153 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Transformer';
+  src: url('/fonts/TransformersMovie.woff2') format('woff2'),
+      url('/fonts/TransformersMovie.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MechSuit';
+  src: url('/fonts/Mechsuit.woff2') format('woff2'),
+      url('/fonts/Mechsuit.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Valorax';
+  src: url('/fonts/valorax.woff2') format('woff2'),
+      url('/fonts/valorax.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KodeMono';
+  src: url('/fonts/KodeMono-Regular.woff2') format('woff2'),
+      url('/fonts/KodeMono-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nuixyber';
+  src: url('/fonts/NuixyberProConvert.woff2') format('woff2'),
+      url('/fonts/NuixyberProConvert.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+::-webkit-scrollbar-track{
+  background-color: inherit;
+}
+::-webkit-scrollbar-thumb{
+  background-color: transparent;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    min-height: 100vh;
+    width: 100%;
+}
+ 
+
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 224 71.4% 4.1%;
+    --card: 0 0% 100%;
+    --card-foreground: 224 71.4% 4.1%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 71.4% 4.1%;
+    --primary: 262.1 83.3% 57.8%;
+    --primary-foreground: 210 20% 98%;
+    --secondary: 220 14.3% 95.9%;
+    --secondary-foreground: 220.9 39.3% 11%;
+    --muted: 220 14.3% 95.9%;
+    --muted-foreground: 220 8.9% 46.1%;
+    --accent: 220 14.3% 95.9%;
+    --accent-foreground: 220.9 39.3% 11%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 20% 98%;
+    --border: 220 13% 91%;
+    --input: 220 13% 91%;
+    --ring: 262.1 83.3% 57.8%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 224 71.4% 4.1%;
+    --foreground: 210 20% 98%;
+    --card: 224 71.4% 4.1%;
+    --card-foreground: 210 20% 98%;
+    --popover: 224 71.4% 4.1%;
+    --popover-foreground: 210 20% 98%;
+    --primary: 263.4 70% 50.4%;
+    --primary-foreground: 210 20% 98%;
+    --secondary: 215 27.9% 16.9%;
+    --secondary-foreground: 210 20% 98%;
+    --muted: 215 27.9% 16.9%;
+    --muted-foreground: 217.9 10.6% 64.9%;
+    --accent: 215 27.9% 16.9%;
+    --accent-foreground: 210 20% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 20% 98%;
+    --border: 215 27.9% 16.9%;
+    --input: 215 27.9% 16.9%;
+    --ring: 263.4 70% 50.4%;
+  }
+}
+
+
+@layer components{
+  .group-date{
+    @apply text-zinc-400 
+    px-3 py-4 
+    font-bold tracking-widest
+    uppercase
+  }
+
+  .timeline{
+    @apply border-l-4 border-gray-200 
+    ml-3 mt-3 py-16 
+    space-y-4
+  }
+
+  .dot{
+    @apply 
+      absolute top-1/2 -translate-y-1/2 -left-3.5
+      bg-zinc-400
+      h-6 w-6
+      rounded-full
+      border-4 border-white
+  }
+
+  .timeline-date{
+    @apply
+      text-xs font-bold 
+      opacity-40 tracking-widest
+  }
+
+  .timeline-title{
+    @apply
+      text-2xl text-zinc-100 font-semibold
+      tracking-wide mb-2
+  }
+
+}
