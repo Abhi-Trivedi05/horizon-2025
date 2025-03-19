@@ -1,6 +1,6 @@
 [
     { 
-        "name":"Robo Arena",
+        "name":"Battle Bots",
         "Wname":"RoboArena",
         "img":"/images/Posters/2.png",
         "eventDate":"29th March - 30th March",
@@ -30,7 +30,7 @@
         "name":"Code Voyage",
         "Wname":"RoboArena",
         "img":"/images/Posters/1.png",
-        "eventDate":"24th March - 30th March",
+        "eventDate":"25th March - 27th March",
         "regDate":"14th March",
         "organizingClub":"Coding club",
         "accent":"violet"
@@ -39,7 +39,7 @@
         "name":"CTF",
         "Wname":"Capture The Flag",
         "img":"/images/Posters/8.png",
-        "eventDate":"24th March - 30th March",
+        "eventDate":"26th March - 30th March",
         "regDate":"14th March",
         "organizingClub":"Coding club",
         "accent":"violet"
@@ -48,13 +48,13 @@
         "name":"Holo Trade",
         "Wname":"PaperTrading",
         "img":"",
-        "eventDate":"24th March - 30th March",
+        "eventDate":"24th March",
         "regDate":"14th March",
         "organizingClub":"Finanace club",
         "accent":"violet"
     } ,  
     { 
-        "name":"Frame Fusion",
+        "name":"Shuffle",
         "Wname":"VideoEditingEvent",
         "img":"",
         "eventDate":"24th March - 30th March",
@@ -66,16 +66,16 @@
         "name":"Logic Mania",
         "Wname":"LogicMania",
         "img":"",
-        "eventDate":"25th March",
+        "eventDate":"28th March",
         "regDate":"14th March",
         "organizingClub":"Coding club",
         "accent":"violet"
     },
     { 
-        "name":"Neon Nexus: Hack the Future - Hackathon ",
+        "name":"Nexus: Hack the Future - Hackathon ",
         "Wname":"Hackathon",
         "img":"/images/Posters/3.png",
-        "eventDate":"24th March - 30th March",
+        "eventDate":"28th March - 30th March",
         "regDate":"14th March",
         "organizingClub":"Coding club",
         "accent":"violet"

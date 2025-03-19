@@ -17,23 +17,18 @@ const tlDb = [
     events: [
       {
         title: "Inauguration Ceremony",
-        startTime: "",
-        endTime: "",
+        startTime: "TBA",
+        endTime: "TBA",
       },
       {
-        title: "Catch the flag(CTF)",
-        startTime: "",
-        endTime: "",
+        title: "Holo Trade",
+        startTime: "TBA",
+        endTime: "TBA",
       },
       {
-        title: "Robo War Round 1",
-        startTime: "",
-        endTime: "",
-      },
-      {
-        title: "Gaming event launch",
-        startTime: "",
-        endTime: "",
+        title: "Gaming Events Launch",
+        startTime: "TBA",
+        endTime: "TBA",
       },
 
     ],
@@ -42,29 +37,21 @@ const tlDb = [
     date: "25th March",
     events: [
       {
-        title: "Robo War Round 2",
-        startTime: "",
-        endTime: "",
+        title: "Code Voyage Round 1",
+        startTime: "TBA",
+        endTime: "TBA",
       },
-      {
-        title: "Robotics Project Exhibition",
-        startTime: "",
-        endTime: "",
-      },
+      
     ],
   },
   {
     date: "26th March",
     events: [
+      
       {
-        title: "Holo Trade",
-        startTime: "",
-        endTime: "",
-      },
-      {
-        title: " Website Designing Event",
-        startTime: "",
-        endTime: "",
+        title: "Game Development Workshop",
+        startTime: "TBA",
+        endTime: "TBA",
       },
     ],
   },
@@ -72,20 +59,11 @@ const tlDb = [
     date: "27th March",
     events: [
       {
-        title: "Code Voyage Round 1",
-        startTime: "",
-        endTime: "",
+        title: "Code Voyage Round 2",
+        startTime: "TBA",
+        endTime: "TBA",
       },
-      {
-        title: "Game Dev Workshop",
-        startTime: "",
-        endTime: "",
-      },
-      {
-        title: "Frame Fusion",
-        startTime: "",
-        endTime: "",
-      },
+      
     ],
   },
   {
@@ -93,13 +71,13 @@ const tlDb = [
     events: [
       {
         title: "Logic Mania",
-        startTime: "",
-        endTime: "",
+        startTime: "TBA",
+        endTime: "TBA",
       },
       {
-        title: "Code Voyage Round 2",
-        startTime: "",
-        endTime: "",
+        title: "Hackathon Launch",
+        startTime: "TBA",
+        endTime: "TBA",
       },
     ],
   },
@@ -107,29 +85,35 @@ const tlDb = [
     date: "29th March",
     events: [
       {
-        title: "Hackathon Start",
-        startTime: "",
-        endTime: "",
+        title: "Battle Bots Round 1",
+        startTime: "TBA",
+        endTime: "TBA",
       },
-      {
-        title: "Code Voyage Round 2",
-        startTime: "",
-        endTime: "",
-      },
+     
     ],
   },
   {
     date: "30th March",
     events: [
       {
-        title: " Gaming Event Finals",
-        startTime: "",
-        endTime: "",
+        title: "Battle Bots Round 2",
+        startTime: "TBA",
+        endTime: "TBA",
       },
       {
-        title: "Hackathon End",
-        startTime: "",
-        endTime: "",
+        title: "Hackathon Final Round",
+        startTime: "TBA",
+        endTime: "TBA",
+      },
+      {
+        title: "Sentinence",
+        startTime: "TBA",
+        endTime: "TBA",
+      },
+      {
+        title: "Gaming Event Finals",
+        startTime: "TBA",
+        endTime: "TBA",
       },
     ],
   },

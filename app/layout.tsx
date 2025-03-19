@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/themeprovider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Horizon",
+  title: "Horizon 2025",
 };
 
 export default function RootLayout({
