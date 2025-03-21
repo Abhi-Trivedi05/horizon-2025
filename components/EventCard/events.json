@@ -4,7 +4,7 @@
         "Wname":"RoboArena",
         "img":"/images/Posters/2.png",
         "eventDate":"29th March - 30th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Robotics club",
         "accent":"orange"
     }  ,
@@ -13,7 +13,7 @@
         "Wname":"Balareon",
         "img":"/images/Posters/4.png",
         "eventDate":"24th March - 30th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Gaming club",
         "accent":"violet"
     }  ,
@@ -22,7 +22,7 @@
         "Wname":"Vermithor",
         "img":"/images/Posters/7.png",
         "eventDate":"24th March - 30th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Gaming club",
         "accent":"violet"
     }  ,
@@ -31,7 +31,7 @@
         "Wname":"RoboArena",
         "img":"/images/Posters/1.png",
         "eventDate":"25th March - 27th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Coding club",
         "accent":"violet"
     }  ,
@@ -40,34 +40,34 @@
         "Wname":"Capture The Flag",
         "img":"/images/Posters/8.png",
         "eventDate":"26th March - 30th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Coding club",
         "accent":"violet"
     } ,
     { 
         "name":"Holo Trade",
         "Wname":"PaperTrading",
-        "img":"",
+        "img":"/images/Posters/11.png",
         "eventDate":"24th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Finanace club",
         "accent":"violet"
     } ,  
     { 
         "name":"Shuffle",
         "Wname":"VideoEditingEvent",
-        "img":"",
+        "img":"/images/Posters/12.png",
         "eventDate":"24th March - 30th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Vector club",
         "accent":"violet"
     },
     { 
         "name":"Logic Mania",
         "Wname":"LogicMania",
-        "img":"",
+        "img":"/images/Posters/9.png",
         "eventDate":"28th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
         "organizingClub":"Coding club",
         "accent":"violet"
     },
@@ -76,7 +76,16 @@
         "Wname":"Hackathon",
         "img":"/images/Posters/3.png",
         "eventDate":"28th March - 30th March",
-        "regDate":"14th March",
+        "regDate":"23th March",
+        "organizingClub":"Coding club",
+        "accent":"violet"
+    },
+    { 
+        "name":"WebSurge ",
+        "Wname":"Hackathon",
+        "img":"/images/Posters/10.png",
+        "eventDate":"26th March",
+        "regDate":"23th March",
         "organizingClub":"Coding club",
         "accent":"violet"
     } 
