@@ -49,7 +49,12 @@ const tlDb = [
     events: [
       
       {
-        title: "Game Development Workshop",
+        title: "WebSurge",
+        startTime: "TBA",
+        endTime: "TBA",
+      },
+      {
+        title: "CTF Launch",
         startTime: "TBA",
         endTime: "TBA",
       },
@@ -76,6 +81,11 @@ const tlDb = [
       },
       {
         title: "Hackathon Launch",
+        startTime: "TBA",
+        endTime: "TBA",
+      },
+      {
+        title: "Game Development Workshop",
         startTime: "TBA",
         endTime: "TBA",
       },
